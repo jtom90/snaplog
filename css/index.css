@@ -126,7 +126,6 @@ img {
 	color:white;
 	font-size:30px;
 	font-family: 'Raleway', sans-serif;
-	/*z-index:5;*/
 }
 
 .date2 {
@@ -200,11 +199,11 @@ img {
 }
 
 .modal-wrapper1 p, .modal-wrapper2 p, .modal-wrapper3 p, .modal-wrapper4 p,.modal-wrapper5 p, .modal-wrapper6 p {
-	font-size:10px;
+	font-size:15px;
 }
 
 .modal-wrapper1 img, .modal-wrapper2 img, .modal-wrapper3 img, .modal-wrapper4 img,.modal-wrapper5 img, .modal-wrapper6 img{
-	height:150px;
+	height:200px;
 
 }
 
